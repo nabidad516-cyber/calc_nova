@@ -1,0 +1,6 @@
+{
+  "name": "CALC NOVA",
+  "description": "ماشین‌حساب آنلاین هوشمند و حرفه‌ای با تم فضایی و بنفش نئونی، ابزارهای محاسبه درصد، تخفیف، تبدیل واحد و تاریخچه",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
